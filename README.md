@@ -39,6 +39,8 @@ Make use of the many generators for code, try `ember help generate` for more det
 * `ember build --environment production` (production)
 
 ### Deploying
+* Merge branch to Develop
+* let DevOps deploy from Master
 
 Specify what it takes to deploy your app.
 
