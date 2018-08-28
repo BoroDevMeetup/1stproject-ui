@@ -17,6 +17,7 @@ You will need the following things properly installed on your computer.
 * `git clone https://github.com/BoroDevMeetup/1stproject-ui.git` this repository
 * `cd firstproject`
 * `npm install`
+* Any issues contact Shaun Willis shaunwmusic@gmail.com
 
 ## Running / Development
 
