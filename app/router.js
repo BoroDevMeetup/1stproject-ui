@@ -7,7 +7,19 @@ const Router = EmberRouter.extend({
 });
 
 Router.map(function() {
-  this.route('login', function() {});
+  this.route('search', { path: '/:searched' }, function() {
+
+  });
+
+  this.route('account', function() {
+    this.route('login', function() {
+
+    });
+  });
+
+  this.route('404', { path: '/*path' }, function() {
+
+  });
 });
 
 export default Router;
